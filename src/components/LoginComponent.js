@@ -1,10 +1,6 @@
 import { BrowserRouter, Link, Route, Router, Routes ,useNavigate} from 'react-router-dom';
-import NewRegisterAccount from './NewRegisterComponent';
-import Forgetpassword from './ForgetPasswordComponent';
 import './LoginComponent.css'
 import { useState,useEffect} from "react";
-import ShoppingApp from './ShoppingComponent';
-import CartItems from './CartComponent';
 
 export default function Login(){
     const [User,setUser]=useState({Email:"",Password:""});
