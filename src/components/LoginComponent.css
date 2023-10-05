@@ -1,0 +1,67 @@
+.container3{
+    width: 400px;
+    height: 400px;
+    margin-top: 200px;
+    background-color: hwb(0 19% 0%);
+    text-align: center;
+    content: none;
+    margin-left: 590px;
+    border-radius:10px 10px 10px;
+}
+.input-email{
+    height: 30px;
+    width: 290px;
+    margin-top:70px;
+    margin-bottom:25px;
+    margin-left:10px;
+    text-align:justify;
+    border: 0px;
+    border-radius:0px 5px 0px;
+
+}
+.input-email:hover{
+    border: solid;
+    border-color:rgb(255, 255, 255);
+}
+.password:hover{
+    border: solid;
+    border-color: rgb(255, 255, 255);
+}
+.password{
+    height: 30px;
+    width: 290px;
+    margin-bottom:25px;
+    margin-left:10px;
+    text-align: justify;
+    border: 0px;
+    border-radius:0px 5px 0px;
+    margin-top: 20px;
+}
+.button12{
+    background-color: hsl(0, 0%, 100%);
+    border:0px;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px 5px 5px;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: dotted;
+}
+.button12:hover{
+    background-color: #ff0000;
+    color: hsl(0, 0%, 0%);
+    text-decoration: dashed;
+    border:0px;
+}
+.container1{
+    margin-top: 70px;
+}
+
+.newregister{
+    margin-left: 20px;
+    color:black;
+}
+.forgetpassword{
+    margin-left: 60px;
+    color:black;
+}
