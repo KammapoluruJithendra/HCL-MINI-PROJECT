@@ -3,6 +3,7 @@ import Login from "./LoginComponent";
 import NewRegisterAccount from "./NewRegisterComponent";
 import Forgetpassword from "./ForgetPasswordComponent";
 import ShoppingApp, { AddedCartItems } from "./ShoppingComponent";
+import '../node_modules/bootstrap/dist/css/bootstrap.css';
 
 
 export default function Homecomponent(){
